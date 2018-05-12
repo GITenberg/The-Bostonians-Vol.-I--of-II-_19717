@@ -1,0 +1,32 @@
+_repo: The-Bostonians-Vol.-I--of-II-_19717
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: James, Henry
+    birthdate: 1843
+    deathdate: 1916
+    gutenberg_agent_id: '113'
+    url: http://www.gutenberg.org/2009/agents/113
+    wikipedia: http://en.wikipedia.org/wiki/Henry_James
+description: ''
+gutenberg_issued: '2006-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19717'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Feminists -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Boston (Mass.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'New York (N.Y.) -- Fiction'
+title: The Bostonians, Vol. I (of II)
+url: http://www.gutenberg.org/ebooks/19717
